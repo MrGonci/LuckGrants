@@ -1,5 +1,5 @@
 1.0.0
 https://spigotmc.org/resources/
-- Everyting is working correct1
-- Everyting is working correct2
-- Everyting is working correct3
+  - Everyting is working correct1
+  - Everyting is working correct2
+  - Everyting is working correct3
