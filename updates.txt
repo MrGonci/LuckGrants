@@ -1,5 +1,5 @@
 1.0.0
-https://spigotmc.org/resources/
+https://www.spigotmc.org/resources/luckgrants.87536/
 - _bThe plugin was relased
 - _bIf you find some erros go to our discord
 - _bdiscord.gg/DKBMpY3uSs
