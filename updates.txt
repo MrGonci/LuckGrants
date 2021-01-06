@@ -1,5 +1,5 @@
 1.0.0
 https://spigotmc.org/resources/
-- Everyting is working correct1
-- Everyting is working correct2
-- Everyting is working correct3
+- _bThe plugin was relased
+- _bIf you find some erros go to our discord
+- _bdiscord.gg/DKBMpY3uSs
