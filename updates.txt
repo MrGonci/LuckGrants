@@ -1,5 +1,5 @@
-1.0.0
+1.0.1
 https://www.spigotmc.org/resources/luckgrants.87536/
-- _bThe plugin was relased
-- _bIf you find some erros go to our discord
-- _bdiscord.gg/DKBMpY3uSs
+- _bAdded /grant [reload] command to reload the config
+- _bMinor bugs fixed
+- _bSupport in discord.gg/DKBMpY3uSs
