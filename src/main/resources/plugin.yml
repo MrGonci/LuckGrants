@@ -1,0 +1,10 @@
+name: LuckGrants
+version: 1.0.1
+main: ml.mrgonci.grants.Grants
+api-version: 1.16
+load: POSTWORLD
+authors: [ Gonci ]
+
+commands:
+  grant:
+    description: Is the main command of the plugin.

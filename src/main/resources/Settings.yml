@@ -1,0 +1,49 @@
+###################################
+#                                 #
+#           LUCKGRANTS            #
+#                                 #
+# Made by Gonci for give a mew    #
+# look to give ranks using any    #
+# permission plugin that you want #
+###################################
+
+Menu:
+  title: "&cGrants &8| &bRanks"
+  rows: 4
+
+###################################
+#                                 #
+#   THE FIRST SLOT IS 0 NOT 1     #
+#                                 #
+###################################
+Ranks:
+  Owner:
+    slot: 0
+    name: "&4Owner"
+    material: EMERALD
+    command: "lp user %player% group set Owner"
+  Admin:
+    slot: 1
+    name: "&cAdmin"
+    command: "lp user %player% group set Admin"
+    material: DIAMOND
+  Mod:
+    slot: 2
+    name: "&9Mod"
+    material: GOLD_INGOT
+    command: "lp user %player% group set mod"
+  Helper:
+    slot: 3
+    name: "&6&oHelper"
+    material: IRON_INGOT
+    command: "lp user %player% group set helper"
+  Vip:
+    slot: 4
+    name: "&eVip"
+    material: COAL
+    command: "lp user %player% group set vip"
+  User:
+    slot: 5
+    name: "&8User"
+    material: DYE
+    command: "lp user %player% group set user"
